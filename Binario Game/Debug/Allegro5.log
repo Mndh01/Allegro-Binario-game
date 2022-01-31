@@ -1,0 +1,3 @@
+﻿  functions.c
+C:\Users\bshac\source\repos\Allegro5\functions.c(158): warning C4715: 'init': not all control paths return a value
+  Allegro5.vcxproj -> C:\Users\bshac\source\repos\Allegro5\Debug\Allegro5.exe

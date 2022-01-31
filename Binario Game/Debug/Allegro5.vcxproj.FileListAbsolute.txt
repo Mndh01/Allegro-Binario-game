@@ -1,0 +1,2 @@
+C:\Users\bshac\source\repos\Allegro5\Debug\Allegro5.exe
+C:\Users\bshac\source\repos\Allegro5\Debug\Allegro5.pdb
